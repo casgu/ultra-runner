@@ -16,7 +16,7 @@ specifiers:
   '@types/prettier': 2.2.3
   '@types/rimraf': 3.0.2
   '@types/semantic-release': 17.2.3
-  '@types/sinon': 9.0.11
+  '@types/sinon': 10.0.11
   '@types/sinon-chai': 3.2.6
   '@types/wrap-ansi': 3.0.0
   '@types/yamljs': 0.2.31
@@ -102,7 +102,7 @@ devDependencies:
   '@types/prettier': 2.2.3
   '@types/rimraf': 3.0.2
   '@types/semantic-release': 17.2.3
-  '@types/sinon': 9.0.11
+  '@types/sinon': 10.0.11
   '@types/sinon-chai': 3.2.6
   '@types/wrap-ansi': 3.0.0
   '@types/yamljs': 0.2.31
@@ -1176,11 +1176,11 @@ packages:
     resolution: {integrity: sha512-Z57LprQ+yOQNu9d6mWdHNvnmncPXzDWGSeLj+8L075/QahToapC4Q13zAFRVKV4clyBmdJ5gz4xBfVkOso5lXw==}
     dependencies:
       '@types/chai': 4.2.22
-      '@types/sinon': 9.0.11
+      '@types/sinon': 10.0.11
     dev: true
 
-  /@types/sinon/9.0.11:
-    resolution: {integrity: sha512-PwP4UY33SeeVKodNE37ZlOsR9cReypbMJOhZ7BVE0lB+Hix3efCOxiJWiE5Ia+yL9Cn2Ch72EjFTRze8RZsNtg==}
+  /@types/sinon/10.0.11:
+    resolution: {integrity: sha512-dmZsHlBsKUtBpHriNjlK0ndlvEh8dcb9uV9Afsbt89QIyydpC7NcR+nWlAhASfy3GHnxTl4FX/aKE7XZUt/B4g==}
     dependencies:
       '@types/sinonjs__fake-timers': 6.0.2
     dev: true
